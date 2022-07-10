@@ -1,0 +1,10 @@
+  Comand Line Interface
+-cd (change directory)
+-dir: lista os arquivos e pastas dentro do diretório
+-mkdir (make directory)
+-del: deleta arquivos
+-echo: reescreve o que você digitar
+- >: direcionamento
+- ^: navegando entre as ações anteriores
+-rmdir: deleta o diretório
+
